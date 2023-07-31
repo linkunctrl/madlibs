@@ -32,7 +32,7 @@ def madlibs():
     print("\nYour madlibs story:\n")
     print(story)
 
-# call function to run all this crap
+# call function to run all 
 madlibs()
 
 
